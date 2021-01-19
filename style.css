@@ -11,10 +11,15 @@
 }
 
 body {
+    background-image: url('images/avatar3.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     color: var(--black);
-    background-color:whitesmoke;
+    /* background-color:whitesmoke; */
 }
 
 nav {
@@ -38,7 +43,6 @@ textarea {
     font-family: inherit;
     border: 2px solid var(--black);
     border-radius: 0.2rem;
-
 }
 
 button {
@@ -58,7 +62,7 @@ button {
     /* overflow:scroll; */
     border: 2px solid var(--black);
     border-radius: 0.2rem;
-
+    background-color: white;
 }
 
 footer {
