@@ -18,7 +18,7 @@ body {
 }
 
 nav {
-    background-color: var(--yellow);
+    background-color: var(--cadetblue2);
     text-align: center;
 }
 
@@ -42,7 +42,7 @@ textarea {
 }
 
 button {
-    background-color: var(--yellow);
+    background-color: var(--cadetblue2);
     margin: 1rem 0rem;
     padding: 0.5rem 1rem;
     font-family: 'Montserrat', sans-serif;
@@ -66,7 +66,7 @@ footer {
     bottom: 0;
     width: 100%;
     padding: 1rem;
-    background-color: var(--yellow);
+    background-color: var(--cadetblue2);
     text-align: center;
 }
 
