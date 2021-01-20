@@ -52,6 +52,9 @@ textarea {
     font-family: inherit;
     border: 2px solid var(--black);
     border-radius: 0.2rem;
+    background-color: transparent;
+    padding: 1rem;
+    font-weight: bold;
 }
 
 button {
@@ -71,7 +74,8 @@ button {
     /* overflow:scroll; */
     border: 2px solid var(--black);
     border-radius: 0.2rem;
-    background-color: white;
+    font-weight: bold;
+    background-color: transparent;
 }
 
 footer {
