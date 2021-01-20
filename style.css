@@ -25,11 +25,11 @@ body {
     /* background-color:whitesmoke; */
 }
 
-@media only screen and (min-device-width: 250) {
+/* @media only screen and (min-device-width: 250) {
     body {
         background-image: url('images/avatar-mobile.jpg');
     }
-}
+} */
 
 nav {
     background-color: var(--cadetblue2);
