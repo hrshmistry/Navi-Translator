@@ -9,7 +9,7 @@ function getTranslationURL(input) {
 }
 
 function clickHandler() {
-    var inputText = txtInput.value; // taking input
+    var inputText = txtInput.value; // taking input from user
 
     // calling server for processing, for details go to session 4 javascript in browser -> time 2:34:00
     fetch(getTranslationURL(inputText))
