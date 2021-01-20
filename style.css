@@ -17,11 +17,11 @@ body {
     height: auto;
     background-position: center;
     background-repeat: no-repeat;
-    /* background-size: 100% 100%; */
-    /* background-size: cover; */
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     color: var(--black);
+    /* background-size: 100% 100%; */
+    /* background-size: cover; */
     /* background-color:whitesmoke; */
 }
 
