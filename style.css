@@ -64,6 +64,7 @@ button {
     font-family: 'Montserrat', sans-serif;
     font-size: large;
     border-radius: 0.2rem;
+    cursor: pointer;
 }
 
 #translate-output {
